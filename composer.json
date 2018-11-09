@@ -1,0 +1,12 @@
+{
+  "name": "spryker-feature/tax",
+  "description": "Tax [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker/tax": "^5.5.0",
+    "spryker/tax-product-connector": "^4.1.0"
+  }
+}
