@@ -6,6 +6,6 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker/tax": "^5.5.0"
+    "spryker/tax": "^5.5.1"
   }
 }
