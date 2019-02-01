@@ -6,6 +6,11 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker/tax": "^5.5.1"
+    "spryker/tax": "^5.6.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
