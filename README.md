@@ -1,6 +1,6 @@
 # Spryker Feature: Tax
 
-International Tax Rates & Sets, Manage Tax Rates & Sets
+With the Tax feature, you can define international Tax Rates & Sets, as well as manage your Tax Rates & Sets
 
 ## Installation
 
