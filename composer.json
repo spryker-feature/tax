@@ -1,19 +1,19 @@
 {
-  "name": "spryker-feature/tax",
-  "description": "Tax [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/tax": "^5.9.0",
-    "spryker/tax-product-storage": "^1.1.0",
-    "spryker/tax-storage": "^1.2.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/tax",
+    "description": "Tax [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/tax": "^5.9.0",
+        "spryker/tax-product-storage": "^1.1.0",
+        "spryker/tax-storage": "^1.2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
     }
-  }
 }
