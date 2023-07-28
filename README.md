@@ -2,6 +2,8 @@
 
 With the Tax feature, you can define international Tax Rates & Sets, as well as manage your Tax Rates & Sets
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/tax-management/202307.0/base-shop/tax-feature-overview.html)
+
 ## Installation
 
 ```
