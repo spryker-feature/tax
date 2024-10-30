@@ -7,9 +7,9 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/tax": "^5.15.0",
-        "spryker/tax-product-storage": "^1.4.0",
-        "spryker/tax-storage": "^1.4.0"
+        "spryker/tax": "^5.16.0",
+        "spryker/tax-product-storage": "^1.5.0",
+        "spryker/tax-storage": "^1.5.0"
     },
     "extra": {
         "branch-alias": {
