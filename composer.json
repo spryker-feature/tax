@@ -8,12 +8,12 @@
     "require": {
         "php": ">=8.2",
         "spryker/tax": "^5.19.0",
-        "spryker/tax-product-storage": "^1.7.0",
-        "spryker/tax-storage": "^1.7.0"
+        "spryker/tax-product-storage": "^1.9.0",
+        "spryker/tax-storage": "^1.8.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202604.x-dev"
+            "dev-master": "202606.x-dev"
         }
     }
 }
